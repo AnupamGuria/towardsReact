@@ -1,4 +1,4 @@
-#Tic-tac-toe game using the React.
+# Tic-tac-toe game using the React.
 **To load the project in local computer**
 Download the complete *tic-tac-toe-project*
 Go inside the folder `cd <project-location-path>/tic-tac-toe-project`
